@@ -12,3 +12,5 @@ The first iteration of SAWHET was written in Java and used GATE (Generalized Arc
 * Users can revise the platform more easily, and
 * We can distribute the entire program more easily.
 
+The complete code required to set up a new instance of the R Shiny version of SAWHET is available from this repository. [A working version of SAWHET-2 is located on the QUBES Hub](https://qubeshub.org/community/groups/stemwritingproject/automation/reportcollector). 
+
