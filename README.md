@@ -9,8 +9,8 @@ Students can use SAWHET as often as they like to check reports. When a student c
 
 The first iteration of SAWHET was written in Java and used GATE (Generalized Architecture for Text Engineering) plus proprietary SaaS. SAWHET 2 was built entirely in R Shiny, so:
 
-* Users can revise the platform more easily, and
-* We can distribute the entire program more easily.
+* Users can revise the application more easily, and
+* We can distribute SAWHET with more permissive licensing.
 
 The complete code required to set up a new instance of the R Shiny version of SAWHET is available from this repository. [A working version of SAWHET-2 is located on the QUBES Hub](https://qubeshub.org/community/groups/stemwritingproject/automation/reportcollector). 
 
