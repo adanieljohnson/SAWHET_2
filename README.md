@@ -7,7 +7,7 @@ SAWHET v2 is an R Shiny based web form that checks student lab reports to ensure
 
 Students can use SAWHET as often as they like to check reports. When a student clicks __Download__, SAWHET merges the text, tables, figures, and metadata in one zip file for submission. Only the final version is submitted for grading. 
 
-* [Demo of the current version of SAWHET-2](https://evan-cutler-anway.shinyapps.io/sawhet-draft/). 
+* [Current version of SAWHET-2](https://yelr6j-dan-johnson.shinyapps.io/sawhet_v2_0/). 
 * [Minimal working version of SAWHET-2](https://yelr6j-dan-johnson.shinyapps.io/sawhet2/). 
 
 
