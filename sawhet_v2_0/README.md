@@ -1,15 +1,15 @@
 
-# sawhet
+# STEM Automated Writing Help Tool (SAWHET)
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
-The goal of sawhet is to ...
+The goal of SAWHET is to provide novice scientific writers in college biology with automated feedback on lab reports. Version 2.0.0 is a basic web form that checks whether essential components are present, then downloads a compiled archive of checked reports. Additional text checks will be added to future versions.
 
 ## Installation
 
-You can install the released version of sawhet from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of SAWHET from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
 install.packages("sawhet")

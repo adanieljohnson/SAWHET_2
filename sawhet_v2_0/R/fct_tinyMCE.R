@@ -17,7 +17,7 @@
 tinyMCE <- function(inputId, content, options = NULL){
   tagList(
     # you'll need to change the API key below
-    singleton(tags$head(tags$script(src = "//cdn.tiny.cloud/1/evvzmiyoeeq0gbgczxuwsn10eefze6isezwlgnx19ewtdtop/tinymce/5/tinymce.min.js", referrerpolicy="origin"))),
+    singleton(tags$head(tags$script(src = "//cdn.tiny.cloud/1/czg2mky8dgtiyud9x18nq38bjz75u7h84fbn1p1pxui5qo2k/tinymce/5/tinymce.min.js", referrerpolicy="origin"))),
     tags$div(id = inputId, class = "shinytinymce", content, style = "resize: none; width: 100%; height: 100%; border-style: none; background: gainsboro;"),
     tags$script(paste0('tinymce.init({selector:".shinytinymce", ', options, '});')),
     singleton(tags$head(tags$script(src = 'shinyMCE/shiny-tinymce-bindings.js')))
