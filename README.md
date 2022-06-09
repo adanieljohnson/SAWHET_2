@@ -14,6 +14,12 @@ The first iteration of SAWHET was written in Java and used GATE (Generalized Arc
 
 The complete code required to set up a new instance of the R Shiny version of SAWHET is available from this repository. 
 
-* [See a demo of the minimal working version of SAWHET-2](https://yelr6j-dan-johnson.shinyapps.io/sawhet2/). 
-* [See a demo of the current version of SAWHET-2](https://evan-cutler-anway.shinyapps.io/sawhet-draft/). 
+* [Demo of the current version of SAWHET-2](https://evan-cutler-anway.shinyapps.io/sawhet-draft/). 
+* [Minimal working version of SAWHET-2](https://yelr6j-dan-johnson.shinyapps.io/sawhet2/). 
 
+
+## SAWHET v2.0 versus MVP
+
+There are two versions of SAWHET available. **Version 2.#** is the one under active development.  
+
+__MVP__ is on a separate branch. This is the minimum viable product. It lacks several customizations found in v2.# but still provides the essential functions. This core app may be easier for other Shiny editors to adapt to their needs. We do not plan to continue developing this version.   
