@@ -1,5 +1,5 @@
-# Welcome to SAWHET v2
-SAWHET v2 is an R Shiny based web form that checks student lab reports to ensure they are complete. It looks for basic elements such as:
+# Welcome!
+SAWHET v2 is an R Shiny based web form that checks student lab reports to ensure they are complete. The base form looks for elements such as:
 
 * Are all of the required parts there?
 * Are some sections too short or long?
@@ -13,15 +13,13 @@ Students can use SAWHET as often as they like to check reports. When a student c
 
 ## SAWHET v2.0 versus MVP
 
-The files code required to set up a new instance of SAWHET v2 are available from this repository. 
+**Version 2.#** is under active development. The files required to set up a new instance of SAWHET v2 are available from this repository. 
 
-**Version 2.#** on the main branch is the one under active development. 
+* Choose the __ZIP file__ to download a copy of the app files without cloning the repository.
+* To view the individual app files, go to the __sawhet_v2_#__ folder. 
 
-* To download a complete copy of the app files without cloning the repository, choose the __ZIP file__.
-* To view individual files in the app, go to the __sawhet_v2_#__ folder. 
+The __MVP__ folder contains a ZIP file for the minimum viable product. This may be easier for other Shiny editors to adapt to their needs. This version is no longer under development.   
 
-The __MVP__ folder contains a ZIP file for the minimum viable product. This simplified version may be easier for other Shiny editors to adapt to their needs. This version is no longer under development.   
-
-The __Archived__ folder contains older versions of the app. 
+The __Archive__ folder contains older versions of the app that are no longer being updated. 
 
 
