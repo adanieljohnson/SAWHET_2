@@ -20,6 +20,6 @@ The complete code required to set up a new instance of the R Shiny version of SA
 
 ## SAWHET v2.0 versus MVP
 
-There are two versions of SAWHET available. **Version 2.#** is the one under active development.  
+There are two versions of SAWHET available. **Version 2.#** is the one under active development. Older versions that have been replaced are stored in the __Archived__ folder. 
 
-__MVP__ is on a separate branch. This is the minimum viable product. It lacks several customizations found in v2.# but still provides the essential functions. This core app may be easier for other Shiny editors to adapt to their needs. We do not plan to continue developing this version.   
+__MVP__ is in a separate folder. This is the minimum viable product. It lacks several customizations found in v2.# but still provides the essential functions. This core app may be easier for other Shiny editors to adapt to their needs. We do not plan to continue developing this version.   
