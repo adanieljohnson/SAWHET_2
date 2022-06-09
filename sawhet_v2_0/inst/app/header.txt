@@ -1,0 +1,10 @@
+<h1>SAWHET DRAFT</h1>
+<img src="www/logo.png", class="logo">
+<p>SAWHET (STEM Automated Writing Help Tool) checks your report to ensure it is complete. SAWHET automatically checks for basic things like:</p>
+<ul>
+<li>Are all the required parts there?</li>
+<li>Do you have citations where you should?</li>
+<li>Are some sections too short or long?</li>
+</ul>
+<p>SAWHET is updated regularly to check for new items. So if you get a warning, don't ignore it. If you do not see the error, use the Section Help, or ask your instructor.</p>
+<p>You can use SAWHET as often as you like to check your report. Only the final version you submit is graded. When you click&nbsp;<strong>Download</strong>, SAWHET combines your text, tables, figures, and metadata in one zip file for easy submission.</p>

@@ -1,0 +1,13 @@
+<p>The introduction tells readers what topic you are addressing, the current state of knowledge of this topic (by citing sources) and ties that to your biological question.</p>
+<ul>
+<li>What do we already know about this organism, system, or model? (General)</li>
+<li>What questions do we have about this system? (Getting more specific)</li>
+<li>Why are we asking this question? (Still more specific)</li>
+<li>What do we expect to happen in this model system? What do we predict will happen, given the stated hypothesis? (This is very specific and leads directly to methods.)</li>
+</ul>
+<p><strong>Other Important Features</strong></p>
+<ul>
+<li>Make it clear what the dependent and independent variables are, either as part of the hypothesis or as part of the overall purpose of the experiment.</li>
+<li>Include the scientific name of the organism and 1-2 sentences explaining for why it is a good model organism for your experiment.</li>
+<li>Cite pertinent literature using the (Name, Year) citation format. </li>
+</ul>

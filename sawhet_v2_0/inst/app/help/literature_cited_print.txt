@@ -1,0 +1,24 @@
+<p>Remember we recommend using a citation manager like Zotero to assemble your citations. If you must create your citations list by hand, these are the common formats with examples.</p>
+<h3 id="a-journal-article">A Journal Article</h3>
+<p>List #. Author(s), listed in same order as original article, last name then initials. Year published. Title of article (capitalize only the first word, and formal names). <em>Journal Name</em> (in italics). Volume: Pages.</p>
+<ol>
+<li><p>Brown SM. 2014. The effect of temperature on the respiration of mice. <em>Physiological Zoology</em>. 12: 123-133.</p>
+</li>
+<li><p>Eyster LS, Morse MP. 2015. Early shell formation during molluscan embryogenesis of <em>Spisula solidissima</em> surf clams. <em>American Zoologist</em>. 24: 871-882.</p>
+</li>
+</ol>
+<h3 id="an-entire-book">An Entire Book</h3>
+<p>List #. Authors. Date. Book Title. City: Publisher. Number of pages in the book.</p>
+<ol>
+<li>Purves WK. 2013. Life: Science of Biology. Boston: Sinauer Associates. 1099 pp.</li>
+</ol>
+<h3 id="a-chapter-within-a-book">A Chapter within a Book</h3>
+<p>List #. Author(s), listed in same order as original article, last name then initials. Year published. Title of Chapter. In: Editor(s) listed in same order as original book, last name then initials. <em>Book Title</em>. City of publication: Name of publisher. Page #s of the chapter cited.</p>
+<ol>
+<li>Pitelka DR, Child FM. 2016. Ch. 11. Ciliary structure and function. In: Gilman SS, Hunter SH, editors. <em>Biochemistry and Physiology of Protozoa</em>, 3rd ed. New York: Academic Press. pp 131-198.</li>
+</ol>
+<h3 id="your-laboratory-manual">Your Laboratory Manual</h3>
+<p>List #. Author(s), listed by last name then initials. Title of Exercise. <em>Title of the Manual</em>. Publishing Dept. or group, University, city and state. Version # on cover of the manual (date of last update). page(s) within the lab manual containing cited information.</p>
+<ol>
+<li>Johnson AD. Cell Structure. <em>Biological Principles Laboratory Manual</em>. Dept. Biology, Wake Forest University, Winston-Salem, NC. Vers. 16.1 (updated May 1, 2016), pp. 15-16.</li>
+</ol>

@@ -1,0 +1,2 @@
+<p>The title should clearly communicate the topic to readers, indicating what organisms are being studied (using scientific names), the biological property or system being studied, the particular stimulus or stress you are applying, and if possible, very briefly what was found.</p>
+<p>A title that is more than 2 lines (about 160 characters and spaces) is too long and needs to be shortened.</p>

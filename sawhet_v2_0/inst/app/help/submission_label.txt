@@ -1,0 +1,6 @@
+<p style="color: #ff0000;">Important!</p>
+<ul style="color: #ff0000;">
+<li>Choose SUBMISSION if this is a report for a new experiment that your TA has not graded before.</li>
+<li>Choose REVISION if you are uploading a revised version of a report you previously submitted and your TA graded once already.</li>
+<li>Choose SINGLE-SUBMISSION if you only get to submit this report one time (should be the final report of the semester).</li>
+</ul>

@@ -1,0 +1,4 @@
+<p>Here you interpret your results, explain what they mean, and place them in a larger context. State whether your results supported your hypothesis, and give a biological explanation for why the treatment you used produced the results you observed. Relate your findings back to the Introduction. Help your readers see how your experiment increases our understanding of the world around us. Be careful not to get too broad though; your experiment is not the explanation for everything.</p>
+<p>Cite all pertinent literature using the (Name, Year) citation format. </p>
+<p>If you have evidence of an error in your experiment, say so, but do not make up possible sources of error if you do not think they could have occurred. If there is another possible explanation for your results, describe it and what future experiments are needed to determine the best explanation.</p>
+<p>End by answering this question: What is the next logical step for this study? </p>

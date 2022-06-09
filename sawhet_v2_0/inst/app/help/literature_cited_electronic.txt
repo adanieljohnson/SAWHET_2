@@ -1,0 +1,14 @@
+<p>Improperly citing electronic sources is one of the top reasons students earn failing grades on lab reports. You should ONLY use electronic citation format for information that is only available electronically. Never use these formats for books, journal articles, or other printed matter.</p>
+<p>List #. Author or editor of material (NOT the Webmaster). Title of page. Physical location of data. Date accessed. <web address></p>
+<ol>
+<li><p>Victorian Woman in Science Project. Willet P, editor. Indiana University. Accessed April 26, 2016. <a href="http://www.indiana.edu/letrs/vwwp/">http://www.indiana.edu/letrs/vwwp/</a></p>
+</li>
+<li><p>Smith AD. Venation Patterns in Moths. Accessed March 2, 2016. <a href="http://www.minerva.virginia.edu/smith/mothwing/venation.html">http://www.minerva.virginia.edu/smith/mothwing/venation.html</a></p>
+</li>
+</ol>
+<h3 id="common-mistakes-students-make-with-electronic-sources">Common Mistakes Students Make With Electronic Sources</h3>
+<ul>
+<li>Do not use a URL or web address as a citation. the URL or web address for an article is NEVER an acceptable citation on its own. A valid citation for an electronic source has the names of the authors, name of the resource, and when and where it was accessed.</li>
+<li>URLs of database pages are not acceptable citations. If you use JSTOR, Medline, Web of Science, Google Scholar, or another database to find a printed source, cite that source properly using the appropriate format (book, book chapter, or journal article.)</li>
+<li>Do not use digital object identifier (DOI) links to cite sources or as in-text citations. A DOI has a format similar to this: 10.1007/s11162-008-9088-5.</li>
+</ul>

@@ -1,0 +1,8 @@
+<p>You want to state all results clearly, so the reader can create an independent picture of the work. State your observations and describe the tables or figures that summarize your results and statistical analyses, but do not interpret them yet. </p>
+<p>Do not simply list raw data numbers. Describe the general trends and features of the data, then refer to a specific figure or table that contains summarized numerical results to support that statement. Try to answer as many of these questions as possible:</p>
+<ul>
+<li>What general trends did you see? Did specific trials or runs within the larger experiment come out differently? If so, how were they different?</li>
+<li>How can you summarize your numbers so they are easier to understand?</li>
+<li>If you tested more than one group (or, had test and control groups) are they statistically different from one another?</li>
+</ul>
+<p>Do not repeat details you already provided in the Materials and Methods. Similarly do not try to interpret or discuss your data just yet. </p>

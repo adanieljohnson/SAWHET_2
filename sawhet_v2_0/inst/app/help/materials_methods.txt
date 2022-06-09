@@ -1,0 +1,9 @@
+<p>This section outlines the procedures of the study, including how the hypothesis was tested. Enough details are provided that someone not directly involved in the project (but who works in a lab setting) could repeat the experiments.</p>
+<p>Do not just recopy the manual. Summarize your methods with diagrams and text so readers understand how you did your studies. Be careful not to add useless details though. </p>
+<ul>
+<li>Briefly, how did you do your experiment? What are the <strong>essential</strong> details that someone else would need to repeat it?</li>
+<li>Where, how were the organisms collected and maintained?</li>
+<li>What volumes, concentrations of key reagents were used?</li>
+<li>If you used an unusual method to create the independent variable, describe how you did it. </li>
+<li>What statistical tests were used? What groups were compared?</li>
+</ul>

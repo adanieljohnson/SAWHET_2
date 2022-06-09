@@ -1,0 +1,7 @@
+Number of lab report in semester: %s
+This is a %s.
+Date submitted: %s
+Author of this lab report is: %s %s (%s)
+ID: %s
+Course number: %s
+TA: %s
