@@ -16,7 +16,7 @@ Students can use SAWHET as often as they wish to check reports. When a student c
 **Version 2.#** is under active development. All files required to set up a new instance of SAWHET v2 are from this repository. 
 
 * Choose the __ZIP file__ to download a copy of the files without cloning the repository.
-* Go to the __sawhet_v2_#__ folder to view individual app files. 
+* Go to the __sawhet_v2\_#__ folder to view individual app files. 
 
 The __MVP__ folder contains the minimum app fileset. This stripped version may be easier for other Shiny editors to adapt to their needs. This version is no longer under development.   
 
