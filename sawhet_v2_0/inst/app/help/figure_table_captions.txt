@@ -1,0 +1,5 @@
+<p>Each table and figure has a legend or caption explaining what it shows. For example, this is what you would upload in the Figure Legends box:</p>
+<blockquote>
+<p>Figure 1: Mean transpiration rates of mung bean plants exposed to green light (experimental group, n=3) vs white light (control group, n=3).  Error bars represent +/- one standard deviation. T-test results showed transpiration rates to be much lower in green light conditions (p&lt;0.001).   </p>
+</blockquote>
+<p>Every table or figure legend item should have a corresponding uploaded image file.</p>

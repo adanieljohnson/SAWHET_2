@@ -1,0 +1,34 @@
+Title: %s
+
+Abstract:
+
+%s
+
+Introduction:
+
+%s
+
+Materials and Methods:
+
+%s
+
+Results:
+
+%s
+
+Discussion:
+
+%s
+
+Literature Cited:
+
+%s
+
+Figures and Tables:
+
+%s
+
+Figure and Table Legends:
+
+%s
+

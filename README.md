@@ -1,25 +1,27 @@
-# SAWHET 2 Is Coming Summer 2022
-Watch this space for the next iteration of the STEM Automated Writing Help Tool (SAWHET). This web-based form checks student lab reports to ensure they are complete. SAWHET automatically checks for basic elements such as:
+# Welcome!
+SAWHET v2 is an R Shiny based web form that checks student lab reports to ensure they are complete. The form checks basic features such as:
 
 * Are all of the required parts there?
 * Are some sections too short or long?
 * Does the text have citations in correct format in the correct sections?
 
-Students can use SAWHET as often as they like to check reports. When a student clicks __Download__, SAWHET combines the text, tables, figures, and metadata in one zip file for easy submission. Only the final version is submitted for grading. 
+Students can use SAWHET as often as they wish to check reports. When a student clicks __Download__, SAWHET merges the text, tables, figures, and metadata in one zip file that they can submit for grading. 
 
-The first iteration of SAWHET was written in Java and used GATE (Generalized Architecture for Text Engineering) plus proprietary SaaS. SAWHET 2 was built entirely in R Shiny, so:
+Unlike a report submitted as a simple document or via LMS, students are much less likely to submit incomplete work via SAWHET. Reports from SAWHET also have nearly identical structures and formats. This makes it easier for instructors to grade without focusing on formatting, and simplifies text extraction for further analysis.  
 
-* Users can revise the application more easily, and
-* We can distribute SAWHET with more permissive licensing.
-
-The complete code required to set up a new instance of the R Shiny version of SAWHET is available from this repository. 
-
-* [Demo of the current version of SAWHET-2](https://evan-cutler-anway.shinyapps.io/sawhet-draft/). 
-* [Minimal working version of SAWHET-2](https://yelr6j-dan-johnson.shinyapps.io/sawhet2/). 
+* [Current public version of SAWHET v2](https://yelr6j-dan-johnson.shinyapps.io/sawhet_v2_0/). 
+* [Minimal working version of SAWHET v2](https://yelr6j-dan-johnson.shinyapps.io/sawhet2/). 
 
 
 ## SAWHET v2.0 versus MVP
 
-There are two versions of SAWHET available. **Version 2.#** is the one under active development.  
+**Version 2.#** is under active development. All files required to set up a new instance of SAWHET v2 are from this repository. 
 
-__MVP__ is on a separate branch. This is the minimum viable product. It lacks several customizations found in v2.# but still provides the essential functions. This core app may be easier for other Shiny editors to adapt to their needs. We do not plan to continue developing this version.   
+* Choose the __ZIP file__ to download a copy of the files without cloning the repository.
+* Go to the __sawhet_v2\_#__ folder to view individual app files. 
+
+The __MVP__ folder contains the minimum app fileset. This stripped version may be easier for other Shiny editors to adapt to their needs. This version is no longer under development.   
+
+The __Archive__ folder contains older versions of the app that are no longer being updated. 
+
+
