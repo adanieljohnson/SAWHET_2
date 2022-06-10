@@ -5,7 +5,9 @@ SAWHET v2 is an R Shiny based web form that checks student lab reports to ensure
 * Are some sections too short or long?
 * Does the text have citations in correct format in the correct sections?
 
-Students can use SAWHET as often as they wish to check reports. When a student clicks __Download__, SAWHET merges the text, tables, figures, and metadata in one zip file that students submit for grading. 
+Students can use SAWHET as often as they wish to check reports. When a student clicks __Download__, SAWHET merges the text, tables, figures, and metadata in one zip file that they can submit for grading. 
+
+Unlike a report submitted as a simple document or via LMS, students are much less likely to submit incomplete work via SAWHET. Reports from SAWHET also have nearly identical structures and formats. This makes it easier for instructors to grade without focusing on formatting, and simplifies text extraction for further analysis.  
 
 * [Current public version of SAWHET v2](https://yelr6j-dan-johnson.shinyapps.io/sawhet_v2_0/). 
 * [Minimal working version of SAWHET v2](https://yelr6j-dan-johnson.shinyapps.io/sawhet2/). 
